@@ -1,0 +1,68 @@
+A10 – Blood glucose prediction
+Human-identified stakeholders (distinct):
+Diabetes patients
+Pregnant women with gestational diabetes
+Elderly diabetes patients
+Low-income / underrepresented patients
+Parent of underage patient
+Caregiver (secondary)
+Endocrinologists
+Family medicine physicians
+Emergency physicians
+System developers
+Regulatory body (e.g., FDA)
+Patients with limited access to technology
+Patients with mobility impairments
+A10 total: 13 (All covered)
+
+A20 – Drug consumption prediction
+Human-identified stakeholders:
+Individuals with substance use disorder
+People with mental health issues
+ethnic minority groups
+Low-income communities
+Individuals with chronic pain
+Public health officials
+Primary care physicians
+Domain specialists (psychiatrists, school counselors)
+System developers
+Regulatory bodies
+Families of individuals with substance addiction
+A20 total: 11 (All covered)
+
+A30 – Recidivism prediction
+Human-identified stakeholders:
+Previously convicted individuals
+Formerly incarcerated individuals seeking reintegration
+Families of defendants
+ethnic minorities
+Low-income individuals
+Individuals with mental health conditions
+Individuals with intellectual or developmental disabilities
+Juvenile offenders
+Judges
+Police officers
+Prosecutors
+Forensic psychologists
+Social workers
+System developers
+Regulatory bodies (e.g., Ministry of Justice)
+A30 total: 15 (All covered)
+
+A40 – Fraud detection
+Falsely flagged users
+Users in unstable or repressive regions
+Elderly users
+Tech-uneducated users
+Journalists
+Human rights activists
+Non-native language speakers
+Minority dialect users
+Platform  safety teams
+Content moderators
+Platform management
+Law enforcement
+System developers
+Regulatory bodies
+Users with atypical behavior patterns
+A40: total 15 (14/15 covered) Users sharing devices / IP addresses <missed>

@@ -1,0 +1,17 @@
+Model,High_Agree_Before,High_Agree_After,Low_Agree_Before,Low_Agree_After
+deepseek_ai_DeepSeek_V3,0.8896,0.9085,0.671,0.6471
+meta_llama_Llama_4_Scout_17B_16E_Instruct,0.8583,0.8881,0.6592,0.6592
+gpt_5,0.8831,0.8309,0.6928,0.5536
+Qwen_Qwen3_30B_A3B,0.8701,0.8237,0.3968,0.3975
+claude_sonnet_4_5,0.7837,0.8235,0.3646,0.3562
+gpt_5_mini,0.8333,0.8235,0.5336,0.5786
+gemini_2,0.7882,0.8131,0.2879,0.2879
+microsoft_phi_4-4,0.7781,0.7928,0.4826,0.4826
+claude_haiku_4_5,0.7871,0.7921,0.5652,0.5893
+microsoft_WizardLM_2_8x22B,0.7907,0.7907,0.5924,0.5924
+gemini_3_pro_preview,0.7554,0.7554,0.6063,0.6063
+google_gemma_3_27b_it,0.6959,0.7365,0.6659,0.4585
+mistralai_Mixtral_8x7B_Instruct_v0,0.6851,0.6851,0.5184,0.5184
+openai_gpt_oss_120b,0.7931,0.587,0.5619,0.4497
+openai_gpt_oss_20b,0.5361,0.5236,-0.0025,0.0585
+meta_llama_Llama_4_Maverick_17B_128E_Instruct_FP8,0.2421,0.2421,0.4049,0.4049

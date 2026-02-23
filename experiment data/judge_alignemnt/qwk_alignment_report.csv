@@ -1,0 +1,17 @@
+Model Name,QWK (SWE vs Before),QWK (SWE vs After),QWK (AI vs Before),QWK (AI vs After)
+gemini_3_pro_preview,0.8431,0.8431,0.6412,0.6412
+claude_sonnet_4_5,0.7896,0.8269,0.5968,0.5879
+deepseek_ai_DeepSeek_V3,0.8442,0.8184,0.7738,0.7528
+meta_llama_Llama_4_Scout_17B_16E_Instruct,0.7909,0.8101,0.745,0.7683
+claude_haiku_4_5,0.7989,0.8025,0.6788,0.6769
+gpt_5_mini,0.8194,0.7972,0.6568,0.6561
+microsoft_WizardLM_2_8x22B,0.783,0.783,0.7252,0.7252
+microsoft_phi_4-4,0.771,0.7806,0.6515,0.6618
+gpt_5,0.8347,0.763,0.7876,0.7181
+google_gemma_3_27b_it,0.7372,0.752,0.6931,0.6123
+gemini_2,0.7452,0.7501,0.5703,0.5835
+openai_gpt_oss_120b,0.8256,0.6601,0.6639,0.4931
+Qwen_Qwen3_30B_A3B,0.6662,0.6579,0.6486,0.6659
+mistralai_Mixtral_8x7B_Instruct_v0,0.5752,0.5752,0.6894,0.6894
+openai_gpt_oss_20b,0.4124,0.4256,0.348,0.4111
+meta_llama_Llama_4_Maverick_17B_128E_Instruct_FP8,0.3377,0.3377,0.2767,0.2767

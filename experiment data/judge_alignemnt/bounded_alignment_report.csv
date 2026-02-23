@@ -1,0 +1,17 @@
+Model Name,Error (Before),Error (After),Matches
+meta_llama_Llama_4_Scout_17B_16E_Instruct,0.1304,0.13,48
+deepseek_ai_DeepSeek_V3,0.1336,0.1322,48
+gpt_5_mini,0.1705,0.157,48
+claude_haiku_4_5,0.1666,0.1575,48
+gpt_5,0.121,0.1696,48
+claude_sonnet_4_5,0.1922,0.1805,48
+gemini_3_pro_preview,0.1844,0.1853,48
+google_gemma_3_27b_it,0.18,0.1909,48
+microsoft_phi_4-4,0.2005,0.1987,48
+openai_gpt_oss_120b,0.1805,0.2087,48
+gemini_2,0.2213,0.2104,48
+Qwen_Qwen3_30B_A3B,0.2117,0.2156,48
+mistralai_Mixtral_8x7B_Instruct_v0,0.2282,0.2282,48
+openai_gpt_oss_20b,0.2539,0.233,48
+microsoft_WizardLM_2_8x22B,0.2916,0.2916,48
+meta_llama_Llama_4_Maverick_17B_128E_Instruct_FP8,0.3567,0.3541,48
