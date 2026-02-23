@@ -42,7 +42,7 @@ The following API keys are required and configured in **Section 2** of the noteb
 1. Open `Stakeholder_Pipeline.ipynb` in Google Colab
 2. Set `PROJECT_NAME` and `PROJECT_DESCRIPTION` in **Section 2**
 3. Add your API keys in **Section 2**
-4. Run sections sequentially — each section saves its output CSV for the next
+4. Run sections sequentially, each section saves its output CSV for the next
 5. To resume from a specific stage, upload the relevant CSV to the Colab session and run from that section
 
 > **Resuming from Stage 3:** Upload `live_api_results_detailed.csv` and `frequency_table_with_rejected.csv` before running the clustering section.
