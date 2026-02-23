@@ -1,0 +1,797 @@
+Config,Project,Model,Temp,Tier,Item,Status,Sim,Conflict
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,student,Accepted,0.0,
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,parent/guardian,Accepted,0.2744,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,teacher,Accepted,0.6601,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school principal,Accepted,0.7068,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district it manager,Accepted,0.593,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district procurement officer,Accepted,0.6382,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district legal counsel,Accepted,0.5699,school district procurement officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district compliance officer,Accepted,0.7241,school district procurement officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district risk management officer,Accepted,0.7537,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district data protection officer,Accepted,0.7915,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district data governance board member,Accepted,0.7448,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district policy maker,Accepted,0.67,school district risk management officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district financial officer,Accepted,0.73,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district technology support staff,Accepted,0.6617,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district community liaison,Accepted,0.6768,school district policy maker
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district student services coordinator,Accepted,0.7689,school district community liaison
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district special education coordinator,Accepted,0.7684,school district student services coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district student union representative,Accepted,0.6675,school district community liaison
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district parent association representative,Rejected,0.8032,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district board member,Accepted,0.7982,school district data governance board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,state department of education official,Accepted,0.5974,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,federal department of education official,Rejected,0.9117,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,national data protection authority official,Accepted,0.6472,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,institutional ai ethics review board member,Accepted,0.3628,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,machine learning engineer,Accepted,0.3115,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,data scientist,Accepted,0.6079,machine learning engineer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,ai system vendor representative,Accepted,0.4628,institutional ai ethics review board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,privacy advocate,Accepted,0.4377,national data protection authority official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students in special education programs,Accepted,0.7068,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students from low socioeconomic status,Accepted,0.5683,students in special education programs
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students from minority ethnic backgrounds,Accepted,0.7223,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with learning difficulties,Accepted,0.5936,students in special education programs
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with behavioral challenges,Accepted,0.7281,students with learning difficulties
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with mental health conditions,Accepted,0.6322,students with learning difficulties
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,at-risk students (predicted to drop out),Accepted,0.5142,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,non-native english speaking students,Accepted,0.5454,students with learning difficulties
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with privacy concerns (sensitive data),Accepted,0.5641,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with disabilities,Accepted,0.7715,students with learning difficulties
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,classroom teacher,Rejected,0.9059,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school counselor,Accepted,0.6103,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,district superintendent,Accepted,0.7198,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,state education agency,Rejected,0.8631,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,data protection officer,Accepted,0.7848,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,ai system vendor,Rejected,0.9389,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school it administrator,Accepted,0.7639,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school legal counsel,Rejected,0.9014,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,education researcher,Accepted,0.585,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school ethics committee,Accepted,0.5954,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students from low‑income households,Rejected,0.8297,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,english language learner students,Accepted,0.7993,non-native english speaking students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with behavioral disorders,Rejected,0.8001,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,transgender and gender non‑conforming students,Accepted,0.4836,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students in rural or remote schools,Accepted,0.5797,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with limited digital literacy,Accepted,0.5567,students with learning difficulties
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school administrator,Accepted,0.7902,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,parent,Accepted,0.7661,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district it staff,Rejected,0.9053,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district data privacy officer,Rejected,0.8905,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district legal counsel,Rejected,1.0,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district policy maker,Rejected,1.0,school district policy maker
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district compliance officer,Rejected,1.0,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district risk manager,Rejected,0.9596,school district risk management officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district procurement officer,Rejected,1.0,school district procurement officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,education regulator (state department of education),Accepted,0.7991,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with behavioral challenges,Rejected,1.0,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students from minority ethnic groups,Rejected,0.9681,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with limited digital access,Accepted,0.7833,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with mental health issues,Rejected,0.9621,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with language barriers,Accepted,0.7251,non-native english speaking students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,district superintendent,Rejected,1.0,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,curriculum developer,Accepted,0.5758,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,data privacy officer,Rejected,0.8503,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,it system administrator,Rejected,0.801,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,legal counsel,Accepted,0.7112,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,state education agency,Rejected,0.8631,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,low‑income students,Rejected,0.8326,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,racial/ethnic minority students,Rejected,0.9414,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,homeless students,Accepted,0.5841,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,foster youth,Accepted,0.5132,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with behavioral disorders,Rejected,0.8001,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district it manager,Rejected,1.0,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district data privacy officer,Rejected,0.8905,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district legal counsel,Rejected,1.0,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school district superintendent,Rejected,0.943,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,student representative,Accepted,0.7644,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,educational psychologist,Accepted,0.6812,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,ai ethics officer,Accepted,0.7961,institutional ai ethics review board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students from minority ethnic backgrounds,Rejected,1.0,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,students with mental health issues,Rejected,0.9621,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,lgbtq+ students,Accepted,0.709,transgender and gender non‑conforming students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,undocumented students,Accepted,0.5618,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.3,0,foster care students,Rejected,0.8014,foster youth
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,guidance counselor,Accepted,0.7511,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,parent/guardian,Rejected,1.0,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school district superintendent,Rejected,0.943,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,state education agency,Rejected,0.8631,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,federal department of education,Rejected,0.8661,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,it administrator,Accepted,0.7879,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,ai vendor representative,Rejected,0.9027,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,mental health professional,Accepted,0.5612,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,low-income students,Rejected,0.8259,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,racial/ethnic minority students,Rejected,0.9414,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,neurodiverse students,Accepted,0.5328,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students in foster care,Accepted,0.7624,foster youth
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with chronic absenteeism,Accepted,0.6436,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.7,1,students with behavioral disorders,Rejected,0.8001,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school district it manager,Rejected,1.0,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,federal education agency representative,Accepted,0.757,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,legal counsel,Rejected,1.0,legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,ai system vendor product manager,Rejected,0.833,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,student advocacy group representative,Rejected,0.8169,student representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,academic researcher,Accepted,0.7793,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,accreditation body representative,Accepted,0.5396,student representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,disability services staff,Accepted,0.5663,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,equity and inclusion officer,Accepted,0.442,school district financial officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,educational technology procurement officer,Accepted,0.7715,school district procurement officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students from minority ethnic or racial groups,Rejected,0.9607,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with limited english proficiency,Accepted,0.7959,non-native english speaking students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with behavioral disorders,Rejected,0.8001,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students in special education programs,Rejected,1.0,students in special education programs
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students in foster care or with unstable home situations,Accepted,0.775,students in foster care
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,parents of minors with low digital literacy,Accepted,0.7561,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students in rural schools with limited access,Rejected,0.8343,students in rural or remote schools
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students at risk of algorithmic misclassification,Accepted,0.5088,at-risk students (predicted to drop out)
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school district superintendent,Rejected,0.943,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,ai vendor representative,Rejected,0.9027,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,state education agency official,Rejected,0.936,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,civil rights organization representative,Accepted,0.5638,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,privacy advocacy group representative,Accepted,0.787,privacy advocate
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school it administrator,Rejected,1.0,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,low‑income students,Rejected,0.8326,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,rural students,Rejected,0.8137,students in rural or remote schools
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,racial/ethnic minority students,Rejected,0.9414,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students identified as at‑risk,Accepted,0.7521,at-risk students (predicted to drop out)
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school district it manager,Rejected,1.0,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school district data privacy officer,Rejected,0.8905,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,state department of education official,Rejected,1.0,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,federal education agency representative,Rejected,1.0,federal education agency representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,legal counsel for educational institution,Rejected,0.8058,legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,learning disabilities specialist,Accepted,0.7049,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,student union representative,Rejected,0.8975,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,parent-teacher association representative,Accepted,0.6925,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,privacy advocate,Rejected,1.0,privacy advocate
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,educational technology researcher,Accepted,0.7919,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,ai ethics committee member,Rejected,0.8341,institutional ai ethics review board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,ai system vendor representative,Rejected,1.0,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,first-generation students,Accepted,0.5623,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with mental health challenges,Rejected,0.9077,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students in under-resourced schools,Accepted,0.6604,students in rural or remote schools
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with limited digital literacy,Rejected,1.0,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students in alternative education programs,Accepted,0.6584,students in special education programs
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,classroom teacher,Rejected,0.9059,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school district superintendent,Rejected,0.943,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school it administrator,Rejected,1.0,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school district legal counsel,Rejected,1.0,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,ai vendor product manager,Accepted,0.7753,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,external compliance auditor,Accepted,0.4069,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students from low‑income households,Rejected,0.8297,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,neurodivergent students,Rejected,0.8285,neurodiverse students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with limited broadband access,Rejected,0.8054,students with limited digital access
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with undocumented immigration status,Rejected,0.8719,undocumented students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with chronic health conditions affecting attendance,Accepted,0.769,students with chronic absenteeism
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,parent representative,Accepted,0.7267,parent-teacher association representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,student representative,Rejected,1.0,student representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,principal,Rejected,0.8129,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school psychologist,Rejected,0.8626,educational psychologist
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,special education teacher,Accepted,0.7867,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,school it manager,Rejected,0.877,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,legal counsel,Rejected,1.0,legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,equity specialist,Accepted,0.5904,equity and inclusion officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,accessibility specialist,Accepted,0.6941,learning disabilities specialist
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,assessment designer,Accepted,0.5378,curriculum developer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,accreditation body representative,Rejected,1.0,accreditation body representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,educational researcher,Rejected,0.9625,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,it security specialist,Accepted,0.6628,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,disability advocate,Accepted,0.6591,learning disabilities specialist
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,english language learner advocate,Accepted,0.7829,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,low-income student advocate,Accepted,0.611,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,minority student advocate,Accepted,0.7703,low-income student advocate
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,student with mental health needs advocate,Accepted,0.7883,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,low-income students,Rejected,0.8259,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,minority students,Rejected,0.8821,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students with mental health challenges,Rejected,0.9077,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students from marginalized communities,Accepted,0.6629,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.7,0,students who are frequently flagged as at-risk,Rejected,0.8547,students identified as at‑risk
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school district superintendent,Rejected,0.943,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,it system administrator,Rejected,0.9391,it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,ai vendor,Rejected,0.8392,ai vendor product manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,institutional review board member,Accepted,0.671,institutional ai ethics review board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,education researcher,Rejected,1.0,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,accreditation agency representative,Rejected,0.8413,accreditation body representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,low‑income students,Rejected,0.8326,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,racial/ethnic minority students,Rejected,0.9414,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students in foster care or unstable housing,Rejected,0.8919,students in foster care or with unstable home situations
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,students with behavioral or mental health challenges,Rejected,0.8624,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.3,1,rural students with limited broadband access,Accepted,0.6971,students with limited digital access
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,district superintendent,Rejected,1.0,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,school data privacy officer,Rejected,0.8458,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,it system administrator,Rejected,0.9391,it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,education researcher,Rejected,1.0,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,disability rights advocate,Rejected,0.9333,disability advocate
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,mental health professional,Rejected,1.0,mental health professional
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,funding agency representative,Accepted,0.6456,federal education agency representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,low-income students,Rejected,0.8259,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,racial/ethnic minority students,Rejected,0.9414,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,neurodivergent students,Rejected,0.8285,neurodiverse students
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,rural students with limited internet access,Rejected,0.9276,rural students with limited broadband access
+4_role_Clusters,AI-powered student assessment,gpt-oss-120b,0.0,1,students with chronic illnesses,Accepted,0.7947,students with chronic health conditions affecting attendance
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,special education teacher,Rejected,1.0,special education teacher
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,school psychologist,Rejected,0.8626,educational psychologist
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,school social worker,Accepted,0.6139,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,school district administrator,Rejected,0.8695,school administrator
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,academic advisor,Accepted,0.7163,academic researcher
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,registrar,Accepted,0.4143,it administrator
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,parent or legal guardian,Rejected,0.8684,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,student representative,Rejected,1.0,student representative
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,parent-teacher association representative,Rejected,1.0,parent-teacher association representative
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,teachers' union representative,Rejected,0.832,school district student union representative
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,ministry of education official,Accepted,0.752,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,data protection authority representative,Rejected,0.8426,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,civil rights commission official,Accepted,0.785,civil rights organization representative
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,chief information officer,Accepted,0.6919,data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,product manager,Accepted,0.7061,ai vendor product manager
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,machine learning engineer,Rejected,1.0,machine learning engineer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,data scientist,Rejected,1.0,data scientist
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,software engineer,Accepted,0.6879,machine learning engineer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,ux designer,Accepted,0.5522,assessment designer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,legal counsel for educational institution,Rejected,0.8058,legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,education policy researcher,Rejected,0.8032,education researcher
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,neurodivergent students,Rejected,0.8285,neurodiverse students
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students with chronic physical illnesses,Rejected,0.9205,students with chronic illnesses
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students from low-income households,Rejected,0.8304,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students learning in a second language,Accepted,0.7022,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,migrant and refugee students,Accepted,0.6294,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students in foster care or without stable guardianship,Rejected,0.8113,students in foster care
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students with prior disciplinary records,Accepted,0.4929,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students with irregular attendance due to work or caregiving responsibilities,Accepted,0.7832,students with chronic health conditions affecting attendance
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,students with limited access to digital devices or internet,Rejected,0.9337,students with limited digital access
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,rural students in under-resourced schools,Rejected,0.8586,students in rural or remote schools
+4_role_Clusters,AI-powered student assessment,gpt-5.1-2025-11-13,0.0,1,first-generation college students,Rejected,0.9139,first-generation students
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,students,Rejected,0.8448,student
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,parents,Rejected,0.8197,parent
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,educational psychologist,Rejected,1.0,educational psychologist
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,policy makers,Accepted,0.5754,school district policy maker
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,ethics committee,Rejected,0.8475,school ethics committee
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,it security expert,Rejected,0.9085,it security specialist
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,students from socioeconomically disadvantaged backgrounds,Rejected,0.9166,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,phi-4,0.7,3,minority students,Rejected,0.8821,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,education regulatory bodies,Accepted,0.6872,education regulator (state department of education)
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,data protection authorities,Rejected,0.8583,data protection officer
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,students,Rejected,0.8448,student
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,privacy advocates,Rejected,0.9302,privacy advocate
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,civil rights organizations,Rejected,0.8831,civil rights organization representative
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,technical auditors,Accepted,0.6023,external compliance auditor
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,legal counsel,Rejected,1.0,legal counsel
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,ethics review boards,Accepted,0.7098,institutional ai ethics review board member
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,technical experts,Accepted,0.5248,technical auditors
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,student advocates,Accepted,0.7701,minority student advocate
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,parents' associations,Accepted,0.6837,parent
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,students from marginalized communities,Rejected,1.0,students from marginalized communities
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,non-english language learners,Rejected,0.8289,non-native english speaking students
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,vice principal,Accepted,0.6564,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,classroom teacher,Rejected,0.9059,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school it administrator,Rejected,1.0,school it administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school data protection officer,Rejected,0.9399,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school legal counsel,Rejected,0.9014,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,ai system vendor,Rejected,0.9389,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,machine learning engineer,Rejected,1.0,machine learning engineer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,data scientist,Rejected,1.0,data scientist
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,student privacy advocate,Accepted,0.7962,students with privacy concerns (sensitive data)
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district compliance officer,Rejected,0.9029,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district equity officer,Accepted,0.6797,school district financial officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district special education coordinator,Rejected,0.976,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district attendance officer,Accepted,0.6801,district superintendent
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district assessment coordinator,Accepted,0.7319,school district student services coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district curriculum coordinator,Accepted,0.7857,district assessment coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student services coordinator,Rejected,0.9581,school district student services coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data analyst,Accepted,0.6549,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data privacy officer,Rejected,0.8299,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data governance officer,Rejected,0.8464,school district data governance board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data ethics officer,Accepted,0.697,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data compliance officer,Rejected,0.8365,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data security officer,Rejected,0.8651,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data quality officer,Accepted,0.7895,district student data analyst
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data stewardship officer,Rejected,0.8411,district student data quality officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data management officer,Rejected,0.8654,district student data quality officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data integration officer,Rejected,0.8341,district student data quality officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data analytics officer,Rejected,0.8861,district student data analyst
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data science officer,Rejected,0.8668,district student data analyst
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,district student data engineering officer,Rejected,0.8487,district student data quality officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students from minority ethnic backgrounds,Rejected,1.0,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with limited english proficiency,Rejected,1.0,students with limited english proficiency
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with chronic health conditions,Rejected,0.9335,students with chronic illnesses
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with physical or sensory disabilities,Rejected,0.8471,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with special educational needs,Rejected,0.8228,students in special education programs
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students in remote or rural areas,Rejected,0.894,students in rural or remote schools
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with limited access to technology,Rejected,0.8575,students with limited digital access
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with low digital literacy,Rejected,0.9466,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students at risk of dropping out,Rejected,0.8943,at-risk students (predicted to drop out)
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students labeled as underperforming,Accepted,0.5584,students in under-resourced schools
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,education regulatory bodies,Rejected,1.0,education regulatory bodies
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,data protection agencies,Rejected,0.8314,data protection officer
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,student advocacy groups,Rejected,0.8009,student advocates
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,privacy advocates,Rejected,0.9302,privacy advocate
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,ethical review boards,Rejected,0.966,ethics review boards
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,legal counsel,Rejected,1.0,legal counsel
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,data privacy officers,Rejected,0.8057,data protection officer
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,technical auditors,Rejected,1.0,technical auditors
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,students from marginalized communities,Rejected,1.0,students from marginalized communities
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,non-english speaking students,Rejected,0.9338,non-native english speaking students
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.7,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school administrator (principal),Rejected,0.9183,school administrator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district it staff (system administrator),Rejected,0.8824,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district data protection officer,Rejected,1.0,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district legal counsel,Rejected,1.0,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,ferpa compliance officer,Accepted,0.6051,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,privacy advocate (school district),Accepted,0.8,student privacy advocate
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,external auditor,Rejected,0.8744,external compliance auditor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district procurement officer,Rejected,1.0,school district procurement officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district finance officer,Rejected,0.9585,school district financial officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district human resources officer,Accepted,0.7366,school district compliance officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district policy maker,Rejected,1.0,school district policy maker
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district student services officer,Rejected,0.8903,school district student services coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district special education coordinator,Rejected,1.0,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district counseling services officer,Rejected,0.8051,school district student services coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district student health services officer,Accepted,0.7841,school district student services coordinator
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district data scientist,Rejected,0.8351,district student data analyst
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district machine learning engineer,Accepted,0.7786,machine learning engineer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district data analyst,Rejected,0.9203,district student data analyst
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district data governance officer,Rejected,0.9259,school district data governance board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district data security officer,Rejected,0.9409,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students from minority ethnic groups,Rejected,0.9681,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with mental health issues,Rejected,0.9621,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with language barriers,Rejected,1.0,students with language barriers
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with chronic illnesses,Rejected,1.0,students with chronic illnesses
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with low digital literacy,Rejected,0.9466,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with privacy concerns,Rejected,0.9118,students with privacy concerns (sensitive data)
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with low parental involvement,Accepted,0.631,parents' associations
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,teachers with low digital literacy,Rejected,0.8438,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,parents with low digital literacy,Rejected,0.9526,parents of minors with low digital literacy
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,students,Rejected,0.8448,student
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,parents,Rejected,0.8197,parent
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,educational psychologist,Rejected,1.0,educational psychologist
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,it administrator,Rejected,1.0,it administrator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,economically disadvantaged students,Rejected,0.823,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,students from minority cultural backgrounds,Rejected,0.9448,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.3,0,students with mental health challenges,Rejected,0.9077,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,parent or guardian,Rejected,0.9552,parent/guardian
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,principal,Rejected,0.8129,school principal
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school psychologist,Rejected,0.8626,educational psychologist
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district it manager,Rejected,1.0,school district it manager
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district data privacy officer,Rejected,0.8905,school district data protection officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school district legal counsel,Rejected,1.0,school district legal counsel
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,state department of education official,Rejected,1.0,state department of education official
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,office of civil rights representative,Rejected,0.9096,civil rights organization representative
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,disability services coordinator,Accepted,0.7764,disability services staff
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,equity and inclusion officer,Rejected,1.0,equity and inclusion officer
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,ethics review board chair,Accepted,0.797,ethics review boards
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students from minority ethnic groups,Rejected,0.9681,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,students with mental health issues,Rejected,0.9621,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,at‑risk students,Rejected,0.9285,students identified as at‑risk
+4_role_Clusters,AI-powered student assessment,gpt-oss-20b,0.0,0,parents of minors,Accepted,0.7054,parent/guardian
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,students,Rejected,0.8448,student
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,school it staff,Rejected,0.8274,school it administrator
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,ai system developers,Accepted,0.7388,ai system vendor representative
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,data privacy officer,Rejected,0.8503,data protection officer
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,educational psychologists,Rejected,0.9393,educational psychologist
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,legal counsel,Rejected,1.0,legal counsel
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,students from low-income backgrounds,Rejected,0.8353,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,students with behavioral issues,Rejected,0.8815,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,gemma-3-27b-it,0.7,3,students at risk of dropping out,Rejected,0.8943,at-risk students (predicted to drop out)
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,classroom teacher,Rejected,0.9059,teacher
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,special education director,Rejected,0.8377,special education teacher
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,parent or legal guardian,Rejected,0.8684,parent/guardian
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school district data officer,Rejected,0.9389,school district data protection officer
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,educational equity specialist,Rejected,0.8116,equity specialist
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school psychologist,Rejected,0.8626,educational psychologist
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,special education attorney or advocate,Accepted,0.6959,special education teacher
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students from low-income backgrounds,Rejected,0.8353,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,racial and ethnic minorities,Accepted,0.6398,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students experiencing homelessness or housing instability,Accepted,0.7987,homeless students
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,gifted students from underrepresented groups,Accepted,0.5612,students labeled as underperforming
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,parent/guardian,Rejected,1.0,parent/guardian
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,classroom teacher,Rejected,0.9059,teacher
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,educational psychologist,Rejected,1.0,educational psychologist
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,education regulator,Rejected,0.9022,education regulator (state department of education)
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,ai system developer,Rejected,0.9641,ai system developers
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,school district superintendent,Rejected,0.943,district superintendent
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students from low-income households,Rejected,0.8304,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students from racial or ethnic minorities,Rejected,0.9458,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students with behavioral challenges,Rejected,1.0,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,first-generation college-bound students,Rejected,0.8629,first-generation students
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,gifted students from underrepresented backgrounds,Rejected,0.9222,gifted students from underrepresented groups
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students experiencing homelessness or housing instability,Rejected,1.0,students experiencing homelessness or housing instability
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,claude-haiku-4-5,0.7,3,immigrant students,Rejected,0.806,migrant and refugee students
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,students,Rejected,0.8448,student
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,school counselors,Rejected,0.9453,school counselor
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,it system administrators,Rejected,0.8947,it administrator
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,educational researchers,Rejected,0.8695,education researcher
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,ml/ai developers,Rejected,0.8247,ai system developers
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,special education coordinators,Rejected,0.8854,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,student union representatives,Rejected,0.8587,school district student union representative
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,students from low socioeconomic backgrounds,Rejected,0.9567,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,minority racial/ethnic groups,Rejected,0.8447,racial and ethnic minorities
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,students with behavioral/mental health challenges,Rejected,0.8602,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,WizardLM-2-8x22B,0.7,2,foster youth/homeless students,Rejected,0.8212,foster youth
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,educational psychologist,Rejected,1.0,educational psychologist
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,district technology director,Accepted,0.678,district superintendent
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,civil rights advocate,Accepted,0.7647,civil rights organization representative
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,ai ethics researcher,Rejected,0.8589,ai ethics officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,education policy maker,Accepted,0.7517,school district policy maker
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,university admissions officer,Accepted,0.5404,academic advisor
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,low-income students,Rejected,0.8259,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,gifted and talented students from underrepresented backgrounds,Rejected,0.8822,gifted students from underrepresented groups
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students in rural schools,Rejected,0.9195,students in rural or remote schools
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,homeless students,Rejected,1.0,homeless students
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,students,Rejected,0.8448,student
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,educational psychologists,Rejected,0.9393,educational psychologist
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,curriculum developers,Rejected,0.954,curriculum developer
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,it administrators,Rejected,0.9307,it administrator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,special education coordinators,Rejected,0.8854,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,economically disadvantaged students,Rejected,0.823,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,students from minority cultural backgrounds,Rejected,0.9448,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.7,0,students with irregular attendance,Rejected,0.8539,students with irregular attendance due to work or caregiving responsibilities
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,parents/guardians,Rejected,0.8667,parent/guardian
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,data privacy officers,Rejected,0.8057,data protection officer
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,software developers,Rejected,0.8183,software engineer
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,school counselors,Rejected,0.9453,school counselor
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,civil rights advocates,Rejected,0.9236,civil rights advocate
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,ethicists,Accepted,0.3776,ai ethics officer
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,low-income students,Rejected,0.8259,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,Qwen3-30B-A3B,0.3,0,minority student populations,Rejected,0.8667,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,parent/guardian,Rejected,1.0,parent/guardian
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,education policy maker,Rejected,1.0,education policy maker
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,data protection authority,Rejected,0.8583,national data protection authority official
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,software developer,Rejected,0.8729,software engineer
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,students from low socio-economic backgrounds,Rejected,0.9311,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,students from minority ethnic/racial groups,Rejected,0.9668,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,students with behavioral issues,Rejected,0.8815,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,students identified as 'at-risk',Rejected,0.9854,students identified as at‑risk
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.7,1,students with limited digital literacy/access,Rejected,0.9633,students with limited digital literacy
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school district administrator,Rejected,0.8695,school administrator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,data privacy officer,Rejected,0.8503,data protection officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,education technology vendor,Accepted,0.7556,educational technology procurement officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,data scientist,Rejected,1.0,data scientist
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school psychologist,Rejected,0.8626,educational psychologist
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,civil rights attorney,Rejected,0.84,civil rights advocate
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,university education researcher,Rejected,0.8809,education researcher
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,state education department official,Rejected,0.9809,state department of education official
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school it administrator,Rejected,1.0,school it administrator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,community advocate,Accepted,0.6543,civil rights advocate
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,low-income students,Rejected,0.8259,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,gifted students from underrepresented backgrounds,Rejected,0.9222,gifted students from underrepresented groups
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with chronic illnesses,Rejected,1.0,students with chronic illnesses
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,immigrant students,Rejected,0.806,migrant and refugee students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students experiencing homelessness,Rejected,0.9134,homeless students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,young students,Accepted,0.7311,first-generation students
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,parent/guardian,Rejected,1.0,parent/guardian
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,legal counsel,Rejected,1.0,legal counsel
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,system developer,Accepted,0.7237,ai system developers
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,students from low socio-economic backgrounds,Rejected,0.9311,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,students from minority ethnic/racial groups,Rejected,0.9668,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,gemini-2.5-flash,0.3,1,non-native english speaking students,Rejected,1.0,non-native english speaking students
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,students,Rejected,0.8801,young students
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,teachers,Rejected,0.915,teacher
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,school administrators,Rejected,0.9587,school administrator
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,ai developers,Rejected,0.9202,ai system developers
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,data protection officers,Rejected,0.9705,data protection officer
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,educational policy makers,Rejected,0.9048,education policy maker
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,parents,Rejected,0.8197,parent
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,at-risk students,Rejected,0.9173,students identified as at‑risk
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,students with learning disabilities,Rejected,0.958,students with disabilities
+4_role_Clusters,AI-powered student assessment,Mixtral-8x7B-Instruct-v0.1,0.7,1,minority students,Rejected,0.8821,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,school administrator,Rejected,1.0,school administrator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,curriculum developer,Rejected,1.0,curriculum developer
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,it administrator,Rejected,1.0,it administrator
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,education researcher,Rejected,1.0,education researcher
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,students from low-income backgrounds,Rejected,0.8353,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,students with behavioral challenges,Rejected,1.0,students with behavioral challenges
+4_role_Clusters,AI-powered student assessment,DeepSeek-V3.1-Terminus,0.0,0,students in foster care or unstable housing,Rejected,0.8919,students in foster care or with unstable home situations
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,district superintendent,Rejected,1.0,district superintendent
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,school psychologist,Rejected,0.8626,educational psychologist
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,it administrator,Rejected,1.0,it administrator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,civil rights attorney,Rejected,0.84,civil rights advocate
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,education policy researcher,Rejected,0.8601,education policy maker
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,ai ethics researcher,Rejected,0.8589,ai ethics officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,community advocate,Rejected,1.0,community advocate
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students from low-income families,Rejected,0.8412,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,homeless students,Rejected,1.0,homeless students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,students with trauma history,Accepted,0.5679,students in foster care
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.7,2,gifted students from underrepresented backgrounds,Rejected,0.9222,gifted students from underrepresented groups
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,student,Rejected,1.0,student
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,parent,Rejected,1.0,parent
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,teacher,Rejected,1.0,teacher
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,school principal,Rejected,1.0,school principal
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,school counselor,Rejected,1.0,school counselor
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,school district administrator,Rejected,0.8695,school administrator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,data protection officer,Rejected,1.0,data protection officer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,educational psychologist,Rejected,1.0,educational psychologist
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,special education coordinator,Rejected,0.8992,school district special education coordinator
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,school board member,Rejected,0.904,school district board member
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,education technology vendor,Rejected,1.0,education technology vendor
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,machine learning engineer,Rejected,1.0,machine learning engineer
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,civil rights attorney,Rejected,0.84,civil rights advocate
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,education policy researcher,Rejected,0.8601,education policy maker
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,teacher union representative,Rejected,0.8476,school district student union representative
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,student privacy advocate,Rejected,1.0,student privacy advocate
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,school social worker,Rejected,1.0,school social worker
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,librarian,Accepted,0.5295,teacher
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,students with disabilities,Rejected,1.0,students with disabilities
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,students from low-income families,Rejected,0.8412,students from low socioeconomic status
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,racial and ethnic minority students,Rejected,0.9365,students from minority ethnic backgrounds
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,english language learners,Rejected,0.8853,english language learner students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,students with mental health conditions,Rejected,1.0,students with mental health conditions
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,lgbtq+ students,Rejected,1.0,lgbtq+ students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,students in foster care,Rejected,1.0,students in foster care
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,gifted students from underrepresented backgrounds,Rejected,0.9222,gifted students from underrepresented groups
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,students with chronic health conditions,Rejected,0.9335,students with chronic illnesses
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,immigrant students,Rejected,0.806,migrant and refugee students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,students experiencing homelessness,Rejected,0.9134,homeless students
+4_role_Clusters,AI-powered student assessment,claude-sonnet-4-5,0.3,2,neurodiverse students,Rejected,1.0,neurodiverse students
